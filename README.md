@@ -1,5 +1,7 @@
 # Automated DevSecOps CI/CD Pipeline 🚀🔒
 
+[![DevSecOps Automated CI Pipeline](https://github.com/nadia-693/secure-ci-cd-pipeline/actions/workflows/devsecops.yml/badge.svg)](https://github.com/nadia-693/secure-ci-cd-pipeline/actions/workflows/devsecops.yml)
+
 An end-to-end automated Continuous Integration and Security (DevSecOps) pipeline designed to build, audit, and containerize a microservice application securely.
 
 ---
